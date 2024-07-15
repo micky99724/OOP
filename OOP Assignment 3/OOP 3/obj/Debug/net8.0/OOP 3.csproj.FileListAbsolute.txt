@@ -1,0 +1,14 @@
+C:\Users\NTG\source\repos\OOP 3\bin\Debug\net8.0\OOP 3.exe
+C:\Users\NTG\source\repos\OOP 3\bin\Debug\net8.0\OOP 3.deps.json
+C:\Users\NTG\source\repos\OOP 3\bin\Debug\net8.0\OOP 3.runtimeconfig.json
+C:\Users\NTG\source\repos\OOP 3\bin\Debug\net8.0\OOP 3.dll
+C:\Users\NTG\source\repos\OOP 3\bin\Debug\net8.0\OOP 3.pdb
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.AssemblyInfoInputs.cache
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.AssemblyInfo.cs
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.csproj.CoreCompileInputs.cache
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.dll
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\refint\OOP 3.dll
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.pdb
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\OOP 3.genruntimeconfig.cache
+C:\Users\NTG\source\repos\OOP 3\obj\Debug\net8.0\ref\OOP 3.dll
